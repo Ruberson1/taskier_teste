@@ -99,7 +99,8 @@ FCM_SERVER_KEY='SUA_SERVER_KEY'
 ## Das funcionalidades:
 
 Apenas usuários com permissões de admin poderão acessar a lista de usuários,  assim como edita-los,
-o usuário logado ainda que seja admin não pode editar seu próprio usuário ainda que seja admin,
+o usuário logado não pode editar seu próprio usuário ainda que seja admin, ao se cadastrar o usuários
+receberá um e-mail de boas vindas no e-mail cadastrado.
 as demais funcionalidades exigidas nas regras do teste você pode ver na aba "sobre" onde contem as 
 instruções para o teste.
 
