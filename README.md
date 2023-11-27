@@ -111,7 +111,7 @@ Agora, a aplicação está pronta para uso. Para acessar, use as credenciais:
 
 # IMPORTANTE
 
-## Você deve configurar ser projeto no FCM(firebase cloud messaging) e alterar as credenciais;
+## Você deve configurar seu projeto no FCM(firebase cloud messaging) e alterar as credenciais;
 ```bash
 apiKey: "SUA API",
 authDomain: "AUTH_DOMAIN",
