@@ -121,4 +121,4 @@ messagingSenderId: "MESSAGING",
 appId: "APP_ID"
             
 ```
-Para mais informações sobre as funcionalidades e instruções do teste, consulte a aba "Sobre" na aplicação.
+
