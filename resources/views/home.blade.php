@@ -1,4 +1,4 @@
-use Illuminate\Support\Str;
+
 @extends('layouts.app')
 
 @section('content')
