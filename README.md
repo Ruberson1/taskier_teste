@@ -15,7 +15,7 @@ Certifique-se de ter os seguintes softwares instalados em sua máquina:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/Ruberson1/taskier_teste.git
     ```
 
 2. Navegue até o diretório do projeto:
