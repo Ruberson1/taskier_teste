@@ -53,6 +53,8 @@
                 })
                 .then(function (response) {
                     // Use Axios instead of $.ajax
+                    axios.defaults.headers.common['X-CSRF-TOKEN'] = document.querySelector('meta[name="csrf-token"]').getAttribute('content');
+
                     axios.post('{{ route("store.token") }}', {
                         token: response
                     })
